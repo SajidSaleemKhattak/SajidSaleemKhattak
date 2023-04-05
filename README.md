@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SajidSaleemKhattak And I am a Front-End Developer And also I am a Student Of Software Engineering/
+- 👋 Hi, I’m @SajidSaleemKhattak And I am a Front-End Developer And also I am a Student Of Software Engineering.
 - 👀 I’m interested in Coding, I love to Work related To Tech.
-- 🌱 I’m currently learning Python So that I can Work On Artificial Intelligence
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Python So that I can Work On Artificial Intelligence.
+- 💞️ I’m looking for a Paid Internship in Web Devoplment.
 - 📫 How to reach me: My Email: sajidsaleem707@gmail.com
