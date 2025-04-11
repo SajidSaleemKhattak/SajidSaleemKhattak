@@ -1,5 +1,4 @@
 - 👋 Hi, I’m **@SajidSaleemKhattak**, a passionate **Full Stack MERN Developer** with 2+ years of experience and currently pursuing a degree in Software Engineering.  
-- 👨‍💻 I specialize in building modern, responsive web applications using the MERN stack.  
-- 🌱 Currently learning **Python** to step into the world of **Artificial Intelligence**.  
-- 💼 Actively seeking a **full-time MERN Stack Developer job** (Remote or On-site, preferably in the Gulf region).  
+- 👨‍💻 I specialize in building modern, responsive web applications using the MERN stack and enjoy working with real-time technologies like **WebRTC**, **WebSockets**, and more.  
+- 💼 Actively seeking a **full-time MERN Stack Developer job** (Remote or On-site).  
 - 📫 Reach me at: **sajidsaleem707@gmail.com**
