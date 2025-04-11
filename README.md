@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SajidSaleemKhattak And I am a Front-End Developer And also I am a Student Of Software Engineering.
-- 👀 I’m interested in Coding, I love to Work related To Tech.
-- 🌱 I’m currently learning Python So that I can Work On Artificial Intelligence.
-- 💞️ I’m looking for a Paid Internship in Web Devoplment.
-- 📫 How to reach me: My Email: sajidsaleem707@gmail.com
+- 👋 Hi, I’m **@SajidSaleemKhattak**, a passionate **Full Stack MERN Developer** with 2+ years of experience and currently pursuing a degree in Software Engineering.  
+- 👨‍💻 I specialize in building modern, responsive web applications using the MERN stack.  
+- 🌱 Currently learning **Python** to step into the world of **Artificial Intelligence**.  
+- 💼 Actively seeking a **full-time MERN Stack Developer job** (Remote or On-site, preferably in the Gulf region).  
+- 📫 Reach me at: **sajidsaleem707@gmail.com**
